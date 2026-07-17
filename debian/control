@@ -1,0 +1,12 @@
+Source: ros-lyrical-ndcurves
+Section: misc
+Priority: optional
+Maintainer: "Guilhem Saurel" <guilhem.saurel@laas.fr>
+Build-Depends: debhelper (>= 9.0.0), cmake, doxygen, git, graphviz, libboost-all-dev, libeigen3-dev, ros-lyrical-eigenpy, ros-lyrical-jrl-cmakemodules, ros-lyrical-pinocchio, ros-lyrical-ros-workspace
+Homepage: http://github.com/loco-3d/ndcurves
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-ndcurves
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, graphviz, libboost-all-dev, libeigen3-dev, ros-lyrical-ament-cmake, ros-lyrical-eigenpy, ros-lyrical-jrl-cmakemodules, ros-lyrical-pinocchio, ros-lyrical-ros-workspace
+Description: A template-based Library for creating curves of arbitrary order and dimension

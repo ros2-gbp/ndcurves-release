@@ -1,3 +1,26 @@
+## ndcurves (humble) - 2.3.0-1
+
+The packages in the `ndcurves` repository were released into the `humble` distro by running `/nix/store/yfipm26gps6649vc1n9p5wd0w6ix3nrp-python3.13-bloom-0.14.3/bin/bloom-release -r humble ndcurves` on `Fri, 17 Jul 2026 09:41:54 -0000`
+
+The `ndcurves` package was released.
+
+Version of package(s) in repository `ndcurves`:
+
+- upstream repository: https://github.com/loco-3d/ndcurves.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ndcurves (jazzy) - 2.3.0-1
 
 The packages in the `ndcurves` repository were released into the `jazzy` distro by running `/nix/store/yfipm26gps6649vc1n9p5wd0w6ix3nrp-python3.13-bloom-0.14.3/bin/bloom-release -r jazzy ndcurves` on `Fri, 17 Jul 2026 09:36:26 -0000`
